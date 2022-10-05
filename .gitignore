@@ -10,6 +10,8 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 
+#checking if it works
+
 __pycashe__/
 *.py[cod]
 *$py.class
